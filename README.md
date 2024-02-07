@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Erick080
-- 👀 I’m interested in Computer Science
+- 👀 I study computer science at PUCRS
 - 📫 How to reach me: erickbranquinhomachado@gmail.com
 
 <!---
