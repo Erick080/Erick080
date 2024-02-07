@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Erick080
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Java
 - 📫 How to reach me: erickbranquinhomachado@gmail.com
 
 <!---
